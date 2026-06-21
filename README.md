@@ -143,8 +143,4 @@ Focus:
 Founder:
 
 Moazzam Ali  
-<<<<<<< HEAD
 Founder & AI Automation Engineer
-=======
-Founder & AI Automation Engineer
->>>>>>> 2021f1dc0dd070d54fe93393f2d7aad4840a32d6
